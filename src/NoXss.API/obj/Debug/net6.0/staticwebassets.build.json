@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U47+4PhCJtJGYu0pJ2Dj1Yva+LEXEVA0QCsyQPY4hj8=",
+  "Source": "NoXss.API",
+  "BasePath": "_content/NoXss.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
